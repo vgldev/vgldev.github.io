@@ -1,3 +1,15 @@
 .page-break {
     page-break-before: always;
 }
+
+.break-after {
+    display: block;
+    page-break-after: always;
+    position: relative;
+}
+
+.break-before {
+    display: block;
+    page-break-before: always;
+    position: relative;
+}
